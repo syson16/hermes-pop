@@ -2,8 +2,12 @@
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
+.navbar {
+  height: 60px
+}
+
 main.container-fluid {
-  padding: 75px 15px 0;
+  padding: 60px 15px 0;
 }
 
 footer {
